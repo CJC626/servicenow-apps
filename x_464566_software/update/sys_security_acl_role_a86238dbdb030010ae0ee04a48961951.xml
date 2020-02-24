@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 20:07:12</sys_created_on>
+        <sys_id>a86238dbdb030010ae0ee04a48961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.464566.workspace.software_dev_app.software_dev_app</sys_name>
+        <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
+        <sys_security_acl display_value="x.464566.workspace.software_dev_app">e46238dbdb030010ae0ee04a48961947</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a86238dbdb030010ae0ee04a48961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 20:07:12</sys_updated_on>
+        <sys_user_role display_value="software_dev_app" name="software_dev_app">286238dbdb030010ae0ee04a4896194c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

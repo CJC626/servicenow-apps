@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="software_dev_app" name="software_dev_app">286238dbdb030010ae0ee04a4896194c</contains>
+        <role display_value="delegated_developer" name="delegated_developer">a8772c23673302006cc275f557415ad4</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 20:07:12</sys_created_on>
+        <sys_id>606238dbdb030010ae0ee04a4896195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>software_dev_app.delegated_developer</sys_name>
+        <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
+        <sys_update_name>sys_user_role_contains_606238dbdb030010ae0ee04a4896195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 20:07:12</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

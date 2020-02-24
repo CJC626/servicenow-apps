@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Project Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Projects">4b72f45bdb030010ae0ee04a4896196d</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 20:07:39</sys_created_on>
+        <sys_id>8372f8dbdb030010ae0ee04a489619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Item Stream Segment</sys_name>
+        <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_8372f8dbdb030010ae0ee04a489619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 20:07:39</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

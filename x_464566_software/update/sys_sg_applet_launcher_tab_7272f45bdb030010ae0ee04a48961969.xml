@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Software Dev App">7a72f45bdb030010ae0ee04a48961967</applet_launcher>
+        <icon display_value="Home Software Dev App">b272f45bdb030010ae0ee04a48961969</icon>
+        <label>Software Dev App</label>
+        <roles>delegated_developer</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 20:07:38</sys_created_on>
+        <sys_id>7272f45bdb030010ae0ee04a48961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Software Dev App</sys_name>
+        <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_7272f45bdb030010ae0ee04a48961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 20:07:38</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

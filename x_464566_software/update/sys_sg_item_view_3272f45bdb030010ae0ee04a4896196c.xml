@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Software Dev App Project">b272f45bdb030010ae0ee04a4896196b</data_item>
+        <dependency_fields>projectid</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"TextColor":"#293e40","CornerRadius":2,"CellId":"projectid","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Text":"","Width":100,"Height":21,"BackgroundColor":"#f1f1f1","Font":{"Weight":"semibold","Size":13},"Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"TextColor":"#7d8a8c","CellId":"","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Text":"","Font":{"Weight":"regular","Size":13},"Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"TextColor":"#293e40","CellId":"","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Text":"","Font":{"Weight":"regular","Size":18},"Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"TextColor":"#293e40","CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"","Font":{"Weight":"regular","Size":13},"Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"TextColor":"#293e40","CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"","Font":{"Weight":"regular","Size":13},"Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Project List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-23 20:07:39</sys_created_on>
+        <sys_id>3272f45bdb030010ae0ee04a4896196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project List Screen Item View</sys_name>
+        <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
+        <sys_update_name>sys_sg_item_view_3272f45bdb030010ae0ee04a4896196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-23 20:07:39</sys_updated_on>
+        <table>x_464566_software_project</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=3272f45bdb030010ae0ee04a4896196c"/>
+</record_update>
