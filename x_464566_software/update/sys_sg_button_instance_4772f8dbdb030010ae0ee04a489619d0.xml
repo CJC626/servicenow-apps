@@ -9,21 +9,21 @@
         <label>Edit</label>
         <location>top</location>
         <name>Edit (Project)</name>
-        <order/>
+        <order>10</order>
         <parent>0f72f45bdb030010ae0ee04a4896196e</parent>
         <parent_table>sys_sg_form_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-23 20:07:39</sys_created_on>
         <sys_id>4772f8dbdb030010ae0ee04a489619d0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Edit (Project)</sys_name>
         <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
         <sys_update_name>sys_sg_button_instance_4772f8dbdb030010ae0ee04a489619d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-23 20:07:39</sys_updated_on>
+        <sys_updated_on>2020-02-25 10:42:46</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=4772f8dbdb030010ae0ee04a489619d0"/>

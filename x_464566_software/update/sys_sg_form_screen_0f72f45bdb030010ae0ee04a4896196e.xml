@@ -9,20 +9,20 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Address-Book">fa72f45bdb030010ae0ee04a48961966</icon>
         <item_view display_value="Project Detail Screen Item View">0372f45bdb030010ae0ee04a4896196d</item_view>
-        <name>Project Form Screen</name>
+        <name>Projects</name>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-23 20:07:39</sys_created_on>
         <sys_id>0f72f45bdb030010ae0ee04a4896196e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Project Form Screen</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Projects</sys_name>
         <sys_package display_value="Software Dev App" source="x_464566_software">f070701bdb030010ae0ee04a4896191b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Software Dev App">f070701bdb030010ae0ee04a4896191b</sys_scope>
         <sys_update_name>sys_sg_form_screen_0f72f45bdb030010ae0ee04a4896196e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-23 20:07:39</sys_updated_on>
+        <sys_updated_on>2020-03-04 16:18:33</sys_updated_on>
         <table>x_464566_software_project</table>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=0f72f45bdb030010ae0ee04a4896196e"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Project" max_length="40" name="x_464566_software_project" text_index="true" type="collection">
+    <element label="Project" max_length="40" name="x_464566_software_project" sizeclass="0" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="ProjectID" max_length="40" name="projectid" type="string"/>
     </element>
 </database>
